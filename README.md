@@ -1,2 +1,2 @@
 # AndroidOCR
-a app which can scan content from the picture
+a app can scan content from the picture
